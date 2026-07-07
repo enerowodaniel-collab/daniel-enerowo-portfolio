@@ -98,7 +98,7 @@ export default function App() {
                 Reviews
               </a>
               <a
-                href="https://www.youtube.com/@DanielEnerowo"
+                href="https://www.youtube.com/@trimzclipz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-red-500 hover:bg-red-600 text-white rounded-full font-medium text-sm transition-all hover:scale-105"
@@ -129,7 +129,7 @@ export default function App() {
                 Reviews
               </a>
               <a
-                href="https://www.youtube.com/@DanielEnerowo"
+                href="https://www.youtube.com/@trimzclipz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 px-4 py-2 bg-red-500 text-white rounded-full font-medium text-sm"
@@ -182,7 +182,7 @@ export default function App() {
               <ArrowRight className="w-4 h-4" />
             </a>
             <a
-              href="https://www.youtube.com/@DanielEnerowo"
+              href="https://www.youtube.com/@trimzclipz"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 bg-white hover:bg-neutral-50 text-neutral-900 rounded-full font-semibold border border-neutral-200 transition-all hover:scale-105 flex items-center gap-2"
