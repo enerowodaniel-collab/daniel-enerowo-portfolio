@@ -364,7 +364,7 @@ export default function App() {
             </div>
             <div className="flex items-center gap-6">
               <a
-                href="https://www.youtube.com/@DanielEnerowo"
+                href="https://www.youtube.com/@trimzclipz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-neutral-400 hover:text-white transition-colors"
