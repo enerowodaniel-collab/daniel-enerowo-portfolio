@@ -170,7 +170,7 @@ export default function App() {
           </h1>
 
           <p className="text-lg md:text-xl text-neutral-600 max-w-2xl mx-auto mb-10 animate-slide-up" style={{ animationDelay: '0.2s' }}>
-            I craft beautiful, performant websites and compelling video content that help creators and businesses stand out.
+            I build fast, modern websites and create engaging short-form and long-form video content for businesses and creators.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 animate-slide-up" style={{ animationDelay: '0.3s' }}>
