@@ -164,9 +164,9 @@ export default function App() {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6 animate-slide-up" style={{ animationDelay: '0.1s' }}>
-            Bringing Your Vision
+            Websites and Video content that mae you
             <br />
-            <span className="gradient-text">To Life</span>
+            <span className="gradient-text">Stand OUT.</span>
           </h1>
 
           <p className="text-lg md:text-xl text-neutral-600 max-w-2xl mx-auto mb-10 animate-slide-up" style={{ animationDelay: '0.2s' }}>
